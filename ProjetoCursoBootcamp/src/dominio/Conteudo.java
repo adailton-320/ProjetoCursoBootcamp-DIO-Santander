@@ -1,4 +1,4 @@
-package testMain;
+package dominio;
 
 public abstract class Conteudo {
 	

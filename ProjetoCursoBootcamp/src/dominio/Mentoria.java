@@ -2,8 +2,6 @@ package dominio;
 
 import java.time.LocalDate;
 
-import testMain.Conteudo;
-
 public class Mentoria extends Conteudo {
 	
 	

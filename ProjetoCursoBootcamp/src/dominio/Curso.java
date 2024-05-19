@@ -1,7 +1,5 @@
 package dominio;
 
-import testMain.Conteudo;
-
 public class Curso extends Conteudo {
 	
 	
